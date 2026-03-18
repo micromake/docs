@@ -148,6 +148,7 @@ nav:
   - index.md
   - DIY Kit: 
             - Venture Delta:
+              - delta/0/0.md
               - delta/1/1.md
               - delta/2/2.md
               - delta/3/3.md
